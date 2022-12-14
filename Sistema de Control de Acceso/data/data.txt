@@ -1,0 +1,3 @@
+token: 5638205121:AAG4eRwmwGHoL-_0qsHRcN4AAGjm-UnFYGc
+chat_id: 628762787
+id_list: 1046261468009:Alan.Arias 1083176471006:Jack.Torres 841444339321:Bastian.Mamani 222218886098:Juan.Pérez
